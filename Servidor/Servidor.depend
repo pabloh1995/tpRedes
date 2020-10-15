@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602795090 source:c:\users\user\desktop\lic. en sistemas\3er año\redes y comunicaciones\trabajo practico\servidor\servidor\main.cpp
+	<iostream>
+	<winsock2.h>
+

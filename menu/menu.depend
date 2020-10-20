@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603159545 source:c:\users\wjgri\documents\codeblocks\menu\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
